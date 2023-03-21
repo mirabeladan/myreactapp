@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "myreactapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-03-21T07:00:01.034Z"
+}
